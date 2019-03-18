@@ -1,0 +1,91 @@
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color:black;
+}
+img{
+    width: 40%;
+    height: 30%;
+    float:left;
+    margin-right: 20px;
+    
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}    
+p{
+    text-align: center;
+    color:red;
+    
+}
+div{
+    text-align: justify;
+    color: blue;
+    margin:30px;
+}  
+h2{
+    text-align:center;
+    color: red;
+}  
+.right{
+    width: 25%;
+    height: 30%;
+    margin-left:20px;
+    float:right;
+    margin-right: 1px;
+
+}
+h3{
+    text-align: center;
+    color:brown;
+}
+.left{
+    width: 22%;
+    height: 20%;
+    float: left;
+    margin-right: 20px;
+    margin-left: 1px;
+}
+article{
+    background:yellowgreen;
+    text-align: justify;
+    color: saddlebrown;
+    
+    
+}
+.Tango{
+    text-align: center;
+    color:blueviolet;
+}
+.Tang-Argentino{
+    width: 12%;
+    height: 9%;
+    margin-left:15px;
+    margin-right:20px;
+
+
+}
+.La-Boca{
+    width: 223px;
+    height:18%;
+}
+.Argentino{
+    margin-right:1px;
+    width: 450px;
+    height: 338px;
+
+}
+.Baile{
+    border-left: 1px;
+    background:rgb(192, 253, 243);
+    color:rgb(25, 28, 189);
+    text-align: left;
+}
+
+    
+    
+    
+
